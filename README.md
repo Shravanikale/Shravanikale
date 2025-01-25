@@ -117,15 +117,12 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shravanikale&theme=dracula&langs_count=4)](https://github.com/Shravanikale/github-readme-stats)
 
 <p align="center">
-    <a href="https://github.com/Shravanikale">
-    	<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Shravanikale&bg_color=0D1117&color=9a11d9&line=11a0d9&point=C1F7D0&hide_border=true">
-
-        
-    </a>
+    
 </p>
 
 <br>
 
+![Shrey](./bottom_header.svg)
 
 
 <br>
