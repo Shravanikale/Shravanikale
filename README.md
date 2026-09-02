@@ -1,111 +1,105 @@
-## Hi, I’m @Shravanikale!! 👋
+# Hi, I'm Shravani Kale 👋
+
+### 💻 Aspiring Software Developer | Java & Spring Boot Enthusiast
 
 ## About Me
-- 👀 I’m interested in Web Devlopment..
-- 🌱 I’m currently learning everything i can...
-- 📫 Get connected with me on linked in :(https://www.linkedin.com/in/shravani-kale-ab1831227)
 
+* 🎓 Currently pursuing **Advanced Computing at IACSD, Pune**.
+* 💻 Interested in **Software Development, Backend Development, and Web Technologies**.
+* ☕ Comfortable working with **Java and Spring Boot**.
+* 🌱 Currently learning and exploring new technologies in **Advanced Computing, Full Stack Development, and Software Engineering**.
+* 🚀 Always curious to learn, build projects, and improve my problem-solving skills.
+* 🤝 Open to collaborating on interesting projects and learning opportunities.
+* 📫 Connect with me on LinkedIn: [Shravani Kale](https://www.linkedin.com/in/shravani-kale/)
 
+---
 
-## HacktoberFest Badges 🦖
-[![@shravanii_kale's Holopin board](https://holopin.me/shravanii_kale)](https://holopin.io/@shravanii_kale)
+## 🛠️ Skills & Technologies
 
-<!---
-Shravanikale/Shravanikale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
-
---->
-
-
-## GSSOC(24) Badges 🪶
-<div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
-
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="150px" height="150px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="150px" height="150px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="150px" height="150px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="150px" height="150px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="150px" height="150px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/6.png" width="150px" height="150px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/7.png" width="150px" height="150px" />
-  <img src="https://raw.githubusercontent.com/GSSoC24/Contributor/refs/heads/main/assets/Git%20Explorer.png" width="170px" height="170px" />
-<img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="150px" height="150px" />
-  </a>
-</div>
-
-
-## My Badges 🏅
-<p align="center">
-  <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="150px" height="150px" />
-</p>
-
-
-### Programming languages
-
+### Programming Languages
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg">
-</a> 
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/java.svg">
+</a>
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
-</a> 
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/html.svg">
+</a>
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg">
-</a> 
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/css3.svg">
+</a>
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
-</a> 
+  <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/languages/js.svg">
+</a>
 
-<br>
+---
 
-#### Currently learning
-<a href="#">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/frameworks/nodejs_larger.svg">
-</a> 
-
-
-<br>
-<br>
-
-### Tools and Technologies
+### Backend & Frameworks
 
 <a href="#">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/tools/git.svg">
-</a> 
+  <img src="https://img.shields.io/badge/Java-Spring%20Boot-brightgreen?style=for-the-badge&logo=springboot">
+</a>
+
 <a href="#">
-    <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/services/github.svg">
-</a> 
+  <img src="https://img.shields.io/badge/Spring%20Boot-Backend%20Development-brightgreen?style=for-the-badge&logo=springboot">
+</a>
+
+---
+
+### Databases
+
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/bash.svg">
-</a> 
+  <img src="https://img.shields.io/badge/MySQL-Database-blue?style=for-the-badge&logo=mysql">
+</a>
+
 <a href="#">
-    <img src="https://raw.githubusercontent.com/MikeCodesDotNET/ColoredBadges/master/svg/dev/tools/powershell.svg">
-</a> 
+  <img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge">
+</a>
+
+---
+
+### Tools & Technologies
+
+<a href="#">
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/tools/git.svg">
+</a>
+
+<a href="#">
+  <img src="https://raw.githubusercontent.com/klaasnicolaas/ColoredBadges/new-badges/svg/dev/services/github.svg">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-IDE-black?style=for-the-badge&logo=intellijidea">
+</a>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/VS%20Code-Editor-blue?style=for-the-badge&logo=visualstudiocode">
+</a>
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Computing
+* Java & Advanced Java
+* Spring Boot
+* REST APIs
+* SQL & MySQL
+* Full Stack Development
+* Data Structures & Algorithms
+
+---
+
+## 🏆 HacktoberFest Badges
+
+[![@shravanii\_kale's Holopin board](https://holopin.me/shravanii_kale)](https://holopin.io/@shravanii_kale)
+
+---
 
 
-<br>
-<br>
 
-
-### GitHub Status
-
-
-[![Shravani's github stats](https://github-readme-stats.vercel.app/api?username=Shravanikale&theme=dracula)](https://github.com/Shravanikale/github-readme-stats)
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shravanikale&theme=dracula&langs_count=4)](https://github.com/Shravanikale/github-readme-stats)
-
-<p align="center">
-    
-</p>
-
-<br>
+### 🚀 "Learning, Building, and Growing Every Day."
 
 ![Shrey](./bottom_header.svg)
-
-
-<br>
-<br>
